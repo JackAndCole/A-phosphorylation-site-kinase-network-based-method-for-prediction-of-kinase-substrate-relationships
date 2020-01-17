@@ -16,7 +16,3 @@ Protein phosphorylation is catalyzed by kinases which regulate many aspects that
 If our work is helpful to you, please cite:
 
 Minghui Wang, Tao Wang, Binghua Wang, Yu Liu, and Ao Li, “A Novel Phosphorylation Site-Kinase Network-Based Method for the Accurate Prediction of Kinase-Substrate Relationships,” BioMed Research International, vol. 2017, Article ID 1826496, 11 pages, 2017. [https://doi.org/10.1155/2017/1826496](https://doi.org/10.1155/2017/1826496).
-
-## Email:
-
-If you have any questions, please email to: wtustc@mail.ustc.edu.cn
